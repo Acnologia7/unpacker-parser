@@ -3,6 +3,8 @@
 - For usage and 'auto-setup' I recommend to use docker, from dictionary where docker-compose.yml is located run command `docker-compose up --build`
 othervise make standard procedure of making python venv, installing reqirements etc.
 
+- For running script in container use command `docker ps` to get id of container, then use `docker exec -it <id> bash` to run bash in container, then you can do work it with like with classic linux.  
+
 - To run tests make sure that you are located in /tests directory command `pytest`
 
 - To run script_ukol.py run command `python script_ukol.py -d` I recomnend to run in in directory where the script is located. 
