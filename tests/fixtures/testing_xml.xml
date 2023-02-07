@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export_full date="2022-03-29 07:01:28" version="20160107">
+	<items>
+        <item code="ARAG1023" codeMan="AR390214" image="https://www.astramodel.cz/images/A/800x600/ARAG1023.jpg" imageDate="2018-07-30" name="Arrma motor střídavý BLX3660 4P 3200ot/V" brandId="106" brand="Arrma" czk="2809.00" eur="109.80" czksmap="2809.00" eursmap="109.80" hasPrice="true" created="2018-07-30" changed="" new="false" stock="false" date="" stock2="producer" date2="2022-04-08" stock3="producer" date3="2022-04-08" discontinued="false" weight="0.297" length="0.135" width="0.085" height="0.050" recycling_fee="0.2600">
+			<eans>
+				<ean code="5052127030144" unit="ks" isDefault="true" />
+			</eans>
+			<descriptions>
+				<description title="Charakteristika" order="1">&lt;p&gt;Střídavý elektromotor BLX3660. Čtyř-pólový motor, 3200ot/V, určený pro použití s regulátorem ARRMA BLX100. Hliníkové tělo pro lepší chlazení. Konektory 4 mm. &lt;/p&gt;</description>
+			</descriptions>
+			<specs>
+				<spec paramId="356" name="Použití">Auta</spec>
+				<spec paramId="525" name="Typ">Střídavý</spec>
+				<spec paramId="340" name="Počet pólů">4</spec>
+				<spec paramId="300" name="Otáčky">3200 ot/V</spec>
+				<spec paramId="1684" name="Maximální napájecí napětí">3S LiPo</spec>
+				<spec paramId="544" name="Účinnost" />
+				<spec paramId="444" name="Rozměry">60x30 mm</spec>
+				<spec paramId="673" name="Hřídel">18.5mm, Ø 5mm</spec>
+				<spec paramId="114" name="Hmotnost">289 g</spec>
+				<spec paramId="155" name="Konektory">kolík 4mm</spec>
+				<spec paramId="47" name="Délka kabelu">45 mm</spec>
+				<spec paramId="2517" name="Rozměry ložisek">5x16x5mm  a  4 x 13 x 5mm</spec>
+			</specs>
+			<parts>
+				<part categoryId="1" name="Náhradní díly" order="1">
+					<item code="GF-0550-034" name="Kuličkové ložisko 5x16x5mm 625ZZ (2)" />
+					<item code="GF-0550-020" name="Kuličkové ložisko 4 x 13 x 5mm MR624ZZ (2)" />
+				</part>
+			</parts>
+		</item>
+		<item code="ARAG1023" codeMan="AR390214" image="https://www.astramodel.cz/images/A/800x600/ARAG1023.jpg" imageDate="2018-07-30" name="NO_PARTS_PRODUCT" brandId="106" brand="Arrma" czk="2809.00" eur="109.80" czksmap="2809.00" eursmap="109.80" hasPrice="true" created="2018-07-30" changed="" new="false" stock="false" date="" stock2="producer" date2="2022-04-08" stock3="producer" date3="2022-04-08" discontinued="false" weight="0.297" length="0.135" width="0.085" height="0.050" recycling_fee="0.2600">
+			<eans>
+				<ean code="5052127030144" unit="ks" isDefault="true" />
+			</eans>
+			<descriptions>
+				<description title="Charakteristika" order="1">&lt;p&gt;Střídavý elektromotor BLX3660. Čtyř-pólový motor, 3200ot/V, určený pro použití s regulátorem ARRMA BLX100. Hliníkové tělo pro lepší chlazení. Konektory 4 mm. &lt;/p&gt;</description>
+			</descriptions>
+			<specs>
+				<spec paramId="356" name="Použití">Auta</spec>
+				<spec paramId="525" name="Typ">Střídavý</spec>
+				<spec paramId="340" name="Počet pólů">4</spec>
+				<spec paramId="300" name="Otáčky">3200 ot/V</spec>
+				<spec paramId="1684" name="Maximální napájecí napětí">3S LiPo</spec>
+				<spec paramId="544" name="Účinnost" />
+				<spec paramId="444" name="Rozměry">60x30 mm</spec>
+				<spec paramId="673" name="Hřídel">18.5mm, Ø 5mm</spec>
+				<spec paramId="114" name="Hmotnost">289 g</spec>
+				<spec paramId="155" name="Konektory">kolík 4mm</spec>
+				<spec paramId="47" name="Délka kabelu">45 mm</spec>
+				<spec paramId="2517" name="Rozměry ložisek">5x16x5mm  a  4 x 13 x 5mm</spec>
+			</specs>
+		</item>
+    </items>
+</export_full>
